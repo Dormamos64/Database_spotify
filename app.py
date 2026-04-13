@@ -122,4 +122,4 @@ try:
 except Exception as e:
     st.error(f"Erro: {e}")
 
-st.caption("Dashboard Acadêmico | Spotify Decade Analytics")
+st.caption("Fonte: Kaggle - Top Spotify Songs from 2010-2019 by Leonardo Henrique | Equipe : Gabriel Amaral, Refael Tavares, Felipe Mesquita.")
