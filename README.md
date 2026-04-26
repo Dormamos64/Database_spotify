@@ -28,3 +28,5 @@ Este projeto é um dashboard interativo desenvolvido para a disciplina de **Data
 ├── app.py                # Script principal do Dashboard
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Documentação técnica
+
+https://databasespotify-gmzmarxhntk6pau6gav7od.streamlit.app
