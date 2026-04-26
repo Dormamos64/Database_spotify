@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
-Este projeto é um dashboard interativo desenvolvido para a disciplina de **Data Science & Statistical Computing**. O objetivo é explorar as tendências musicais da década de 2010 utilizando dados extraídos da API do Spotify, focando em processos de **ETL (Extração, Transformação e Carga)** e visualização de dados.
+Este projeto é um dashboard interativo desenvolvido para a disciplina de **Data Science & Statistical Computing**. O objetivo é explorar as tendências musicais das décadas de 2010 a 2025 utilizando dados extraídos da API do Spotify, focando em processos de **ETL (Extração, Transformação e Carga)** e visualização de dados.
 
 ---
 
